@@ -1,0 +1,208 @@
+{
+  "totals": {
+    "both": 4,
+    "training_only": 6,
+    "probe_only": 8,
+    "neither": 366,
+    "unresolved": 0
+  },
+  "paired_rate_difference": -0.005208333333333333,
+  "bootstrap_interval": [
+    -0.020833333333333332,
+    0.0078125
+  ],
+  "pairs": [
+    {
+      "seed": 144,
+      "both": 0,
+      "training_only": 1,
+      "probe_only": 0,
+      "neither": 31,
+      "unresolved": 0,
+      "single": {
+        "training": 0,
+        "probe": 0
+      },
+      "mean_distance": {
+        "training": 0.145024816968137,
+        "probe": 0.15887543614167599
+      }
+    },
+    {
+      "seed": 145,
+      "both": 1,
+      "training_only": 2,
+      "probe_only": 4,
+      "neither": 25,
+      "unresolved": 0,
+      "single": {
+        "training": 0,
+        "probe": 0
+      },
+      "mean_distance": {
+        "training": 0.14687130920444422,
+        "probe": 0.14440451291992284
+      }
+    },
+    {
+      "seed": 146,
+      "both": 0,
+      "training_only": 0,
+      "probe_only": 1,
+      "neither": 31,
+      "unresolved": 0,
+      "single": {
+        "training": 0,
+        "probe": 0
+      },
+      "mean_distance": {
+        "training": 0.11896824611646317,
+        "probe": 0.11058355873604361
+      }
+    },
+    {
+      "seed": 147,
+      "both": 0,
+      "training_only": 0,
+      "probe_only": 0,
+      "neither": 32,
+      "unresolved": 0,
+      "single": {
+        "training": 0,
+        "probe": 0
+      },
+      "mean_distance": {
+        "training": 0.13980945154101415,
+        "probe": 0.14030661381352924
+      }
+    },
+    {
+      "seed": 148,
+      "both": 1,
+      "training_only": 0,
+      "probe_only": 1,
+      "neither": 30,
+      "unresolved": 0,
+      "single": {
+        "training": 0,
+        "probe": 0
+      },
+      "mean_distance": {
+        "training": 0.15239284292189212,
+        "probe": 0.14464388761966407
+      }
+    },
+    {
+      "seed": 149,
+      "both": 0,
+      "training_only": 0,
+      "probe_only": 0,
+      "neither": 32,
+      "unresolved": 0,
+      "single": {
+        "training": 0,
+        "probe": 0
+      },
+      "mean_distance": {
+        "training": 0.15336316130279515,
+        "probe": 0.154775038019913
+      }
+    },
+    {
+      "seed": 150,
+      "both": 0,
+      "training_only": 0,
+      "probe_only": 0,
+      "neither": 32,
+      "unresolved": 0,
+      "single": {
+        "training": 0,
+        "probe": 0
+      },
+      "mean_distance": {
+        "training": 0.1608194258468097,
+        "probe": 0.1688532675046989
+      }
+    },
+    {
+      "seed": 151,
+      "both": 0,
+      "training_only": 0,
+      "probe_only": 0,
+      "neither": 32,
+      "unresolved": 0,
+      "single": {
+        "training": 0,
+        "probe": 0
+      },
+      "mean_distance": {
+        "training": 0.15692734159263533,
+        "probe": 0.1486925556696819
+      }
+    },
+    {
+      "seed": 152,
+      "both": 0,
+      "training_only": 0,
+      "probe_only": 0,
+      "neither": 32,
+      "unresolved": 0,
+      "single": {
+        "training": 0,
+        "probe": 0
+      },
+      "mean_distance": {
+        "training": 0.15636612416665246,
+        "probe": 0.16305003574553617
+      }
+    },
+    {
+      "seed": 153,
+      "both": 0,
+      "training_only": 0,
+      "probe_only": 0,
+      "neither": 32,
+      "unresolved": 0,
+      "single": {
+        "training": 0,
+        "probe": 0
+      },
+      "mean_distance": {
+        "training": 0.13774846721969441,
+        "probe": 0.1402171743181635
+      }
+    },
+    {
+      "seed": 154,
+      "both": 2,
+      "training_only": 3,
+      "probe_only": 2,
+      "neither": 25,
+      "unresolved": 0,
+      "single": {
+        "training": 0,
+        "probe": 0
+      },
+      "mean_distance": {
+        "training": 0.13402089299052847,
+        "probe": 0.14848916384237038
+      }
+    },
+    {
+      "seed": 155,
+      "both": 0,
+      "training_only": 0,
+      "probe_only": 0,
+      "neither": 32,
+      "unresolved": 0,
+      "single": {
+        "training": 0,
+        "probe": 0
+      },
+      "mean_distance": {
+        "training": 0.13457999486969355,
+        "probe": 0.1422266697218576
+      }
+    }
+  ]
+}

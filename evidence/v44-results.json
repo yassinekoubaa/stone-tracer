@@ -1,0 +1,42 @@
+{
+  "cases": 640,
+  "seeds": 40,
+  "distinct_inputs": 64,
+  "statuses": {
+    "partial": 610,
+    "combination": 28,
+    "incompatible": 2
+  },
+  "control": {
+    "partial": 640
+  },
+  "literal": 0,
+  "genuine_closer": 640,
+  "mean_closest": 0.14043286691563128,
+  "mean_control": 0.28409948057261775,
+  "missing": {
+    "neuron 5": 108,
+    "neuron 11": 98,
+    "output merge": 457,
+    "routing": 378,
+    "attention merge": 493,
+    "neuron 9": 94,
+    "neuron 0": 87,
+    "neuron 2": 91,
+    "neuron 4": 82,
+    "neuron 6": 90,
+    "neuron 8": 74,
+    "neuron 10": 90,
+    "neuron 3": 97,
+    "message 2": 16,
+    "neuron 1": 90,
+    "neuron 7": 77,
+    "score 1": 29,
+    "message 0": 30,
+    "message 1": 19,
+    "score 2": 20,
+    "score 3": 64,
+    "message 3": 1,
+    "score 0": 12
+  }
+}
